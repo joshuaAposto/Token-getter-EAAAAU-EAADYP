@@ -1,10 +1,10 @@
 ## join on my telegram for telegram Bot Gc
-<a href="https://www.facebook.com/profile.php?id=100088690249020" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Logo" style="width: 40px; height: 40px; border: none;">
-</a>
-
 <a href="https://t.me/+uz0Kr6JZZN01MWVl" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Logo" style="width: 40px; height: 40px; border: none;">
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100088690249020" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Logo" style="width: 40px; height: 40px; border: none;">
 </a>
 
 # Installation Guide For Termux
