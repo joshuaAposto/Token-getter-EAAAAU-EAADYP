@@ -34,6 +34,9 @@ pkg install git
 pkg install python
 ```
 ```bash
+git clone https://github.com/joshuaAposto/Token-getter-EAAAAU-EAADYP
+```
+```bash
 pip install requests
 ```
 ```bash
