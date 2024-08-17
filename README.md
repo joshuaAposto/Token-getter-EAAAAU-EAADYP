@@ -10,8 +10,14 @@ First, update the package list and upgrade existing packages:
 
 ```bash
 pkg update
+```
+```bash
 pkg upgrade
+```
+```bash
 pkg install git
+```
+```bash
 pkg install python
 ```
 ```bash
