@@ -45,3 +45,8 @@ pip install mechanize
 ```bash
 pip install colorama
 ```
+```bash
+cd Token-getter-EAAAAU-EAADYP
+```
+```bash
+python main.py or python3 main.py
