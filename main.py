@@ -128,7 +128,7 @@ def main():
         print_logo_in_box(logo_text)
         print(Fore.GREEN + "GitHub: https://github.com/joshuapostol")
         print(Fore.GREEN + "Facebook: joshua Apostol")
-        print(Fore.GREEN + "Created by Joshua Apostol" + Style.RESET_ALL)
+        print(Fore.GREEN + "made by Joshua Apostol" + Style.RESET_ALL)
 
         options = {
             Fore.BLUE + "1": "NGL SPAM",
